@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CountClust"]
+	path = CountClust
+	url = https://github.com/kkdey/countclust
+	shallow = true
+	registered = true
+[submodule "Logolas"]
+	path = Logolas
+	url = https://github.com/kkdey/logolas
+	shallow = true
+	registered = true

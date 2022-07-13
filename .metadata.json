@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "CountClust"
+  },
+  {
+    "package": "Logolas"
+  }
+]
